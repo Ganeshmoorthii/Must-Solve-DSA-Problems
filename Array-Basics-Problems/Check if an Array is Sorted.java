@@ -4,7 +4,7 @@ Input → [1, 2, 3, 4] → Ascending
 Input → [9, 7, 5] → Descending 
 */
 
-class Q3_CheckSorted {
+class CheckSorted {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3, 4};
         int[] arr2 = {9, 7, 5};
