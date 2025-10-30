@@ -4,7 +4,7 @@ Input → "hello"
 Output → Vowels = 2, Consonants = 3
 */
 
-class S4_CountVowelsConsonants {
+class CountVowelsConsonants {
     public static void main(String[] args) {
         String s = "hello";
         int vowels = 0, consonants = 0;
