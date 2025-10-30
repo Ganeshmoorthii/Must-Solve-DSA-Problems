@@ -4,7 +4,7 @@ Input → [3, 7, 2, 9, 4]
 Output → Largest = 9, Smallest = 2
 */
 
-class Q1_LargestSmallest {
+class LargestSmallest {
     public static void main(String[] args) {
         int[] arr = {3, 7, 2, 9, 4};
         int max = arr[0], min = arr[0];
