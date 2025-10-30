@@ -9,7 +9,7 @@ o → 1
 */
 
 import java.util.*;
-class S10_CharFrequency {
+class CharFrequency {
     public static void main(String[] args) {
         String s = "hello";
         Map<Character, Integer> freq = new LinkedHashMap<>();
