@@ -5,7 +5,7 @@ Output → [2, 3, 4, 5, 1]
 */
 
 import java.util.Arrays;
-class Q8_LeftRotate {
+class LeftRotate {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
         int first = arr[0];
