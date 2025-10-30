@@ -4,7 +4,7 @@ Input → "I am learning Java"
 Output → "IamlearningJava"
 */
 
-class S5_RemoveWhitespaces {
+class RemoveWhitespaces {
     public static void main(String[] args) {
         String s = "I am learning Java";
         String res = s.replaceAll("\\s+", "");
